@@ -60,8 +60,8 @@ GO
 
 1. Clone the repository
 ```bash
-git clone [your-repo-url]
-cd [backend-folder]
+git clone (https://github.com/SihakV/WebNoteFull)
+cd [WebNote-Backend]
 ```
 
 2. Update connection string in `appsettings.json`:
@@ -77,13 +77,13 @@ cd [backend-folder]
 ```bash
 dotnet run
 ```
-The API will be available at `https://localhost:7089`
+The API will be available at `https://localhost:7188`
 
 ### Frontend Setup
 
 1. Navigate to frontend directory
 ```bash
-cd [frontend-folder]
+cd [WebNote-Frontend]
 ```
 
 2. Install dependencies
@@ -136,15 +136,3 @@ src/
 - POST /api/notes - Create new note
 - PUT /api/notes/{id} - Update note
 - DELETE /api/notes/{id} - Delete note
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a new Pull Request
-
-## License
-
-[Your chosen license]
