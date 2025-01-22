@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lock In\\WebNote\\WebNote-Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6128F742-45C0-411F-95C9-5290A4B940C0}|WebNote-Backend.csproj|d:\\lock in\\webnote\\webnote-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6128F742-45C0-411F-95C9-5290A4B940C0}|WebNote-Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6128F742-45C0-411F-95C9-5290A4B940C0}|WebNote-Backend.csproj|d:\\lock in\\webnote\\webnote-backend\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6128F742-45C0-411F-95C9-5290A4B940C0}|WebNote-Backend.csproj|solutionrelative:controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6128F742-45C0-411F-95C9-5290A4B940C0}|WebNote-Backend.csproj|d:\\lock in\\webnote\\webnote-backend\\services\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6128F742-45C0-411F-95C9-5290A4B940C0}|WebNote-Backend.csproj|solutionrelative:services\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6128F742-45C0-411F-95C9-5290A4B940C0}|WebNote-Backend.csproj|d:\\lock in\\webnote\\webnote-backend\\services\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6128F742-45C0-411F-95C9-5290A4B940C0}|WebNote-Backend.csproj|solutionrelative:services\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6128F742-45C0-411F-95C9-5290A4B940C0}|WebNote-Backend.csproj|d:\\lock in\\webnote\\webnote-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6128F742-45C0-411F-95C9-5290A4B940C0}|WebNote-Backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6128F742-45C0-411F-95C9-5290A4B940C0}|WebNote-Backend.csproj|d:\\lock in\\webnote\\webnote-backend\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6128F742-45C0-411F-95C9-5290A4B940C0}|WebNote-Backend.csproj|solutionrelative:models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6128F742-45C0-411F-95C9-5290A4B940C0}|WebNote-Backend.csproj|d:\\lock in\\webnote\\webnote-backend\\models\\dtos\\createnotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6128F742-45C0-411F-95C9-5290A4B940C0}|WebNote-Backend.csproj|solutionrelative:models\\dtos\\createnotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6128F742-45C0-411F-95C9-5290A4B940C0}|WebNote-Backend.csproj|d:\\lock in\\webnote\\webnote-backend\\models\\dtos\\updatenotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6128F742-45C0-411F-95C9-5290A4B940C0}|WebNote-Backend.csproj|solutionrelative:models\\dtos\\updatenotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "D:\\Lock In\\WebNote\\WebNote-Backend\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotesController.cs",
+              "ToolTip": "D:\\Lock In\\WebNote\\WebNote-Backend\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "Controllers\\NotesController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:42:24.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoteService.cs",
+              "DocumentMoniker": "D:\\Lock In\\WebNote\\WebNote-Backend\\Services\\NoteService.cs",
+              "RelativeDocumentMoniker": "Services\\NoteService.cs",
+              "ToolTip": "D:\\Lock In\\WebNote\\WebNote-Backend\\Services\\NoteService.cs",
+              "RelativeToolTip": "Services\\NoteService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:40:55.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INoteService.cs",
+              "DocumentMoniker": "D:\\Lock In\\WebNote\\WebNote-Backend\\Services\\INoteService.cs",
+              "RelativeDocumentMoniker": "Services\\INoteService.cs",
+              "ToolTip": "D:\\Lock In\\WebNote\\WebNote-Backend\\Services\\INoteService.cs",
+              "RelativeToolTip": "Services\\INoteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:40:22.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateNoteDto.cs",
+              "DocumentMoniker": "D:\\Lock In\\WebNote\\WebNote-Backend\\Models\\DTOs\\UpdateNoteDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\UpdateNoteDto.cs",
+              "ToolTip": "D:\\Lock In\\WebNote\\WebNote-Backend\\Models\\DTOs\\UpdateNoteDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\UpdateNoteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:34:18.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateNoteDto.cs",
+              "DocumentMoniker": "D:\\Lock In\\WebNote\\WebNote-Backend\\Models\\DTOs\\CreateNoteDto.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\CreateNoteDto.cs",
+              "ToolTip": "D:\\Lock In\\WebNote\\WebNote-Backend\\Models\\DTOs\\CreateNoteDto.cs",
+              "RelativeToolTip": "Models\\DTOs\\CreateNoteDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:33:46.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Note.cs",
+              "DocumentMoniker": "D:\\Lock In\\WebNote\\WebNote-Backend\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "Models\\Note.cs",
+              "ToolTip": "D:\\Lock In\\WebNote\\WebNote-Backend\\Models\\Note.cs",
+              "RelativeToolTip": "Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:31:51.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Lock In\\WebNote\\WebNote-Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Lock In\\WebNote\\WebNote-Backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-22T16:31:06.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lock In\\WebNote\\WebNote-Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Lock In\\WebNote\\WebNote-Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T16:31:00.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
