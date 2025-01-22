@@ -61,7 +61,7 @@ GO
 1. Clone the repository
 ```bash
 git clone https://github.com/SihakV/WebNoteFull
-cd [WebNote-Backend]
+cd WebNote-Backend
 ```
 
 2. Update connection string in `appsettings.json`:
@@ -83,7 +83,7 @@ The API will be available at `https://localhost:7188`
 
 1. Navigate to frontend directory
 ```bash
-cd [WebNote-Frontend]
+cd WebNote-Frontend
 ```
 
 2. Install dependencies
