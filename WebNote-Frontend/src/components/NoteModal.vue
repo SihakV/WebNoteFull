@@ -49,10 +49,10 @@
 
 <script setup lang="ts">
 import { ref, onMounted } from "vue";
-import type { Note } from "@/types/Note";
+import type { Note } from "../types/Note";
 
 const props = defineProps<{
-  note?: Note;
+  note?: Note | null; // Allow null
 }>();
 
 const emit = defineEmits<{

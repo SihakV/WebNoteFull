@@ -42,12 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -58,8 +54,7 @@
               "RelativeToolTip": "Controllers\\NotesController.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAIwEAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T16:42:24.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T16:42:24.001Z"
             },
             {
               "$type": "Document",
@@ -71,8 +66,7 @@
               "RelativeToolTip": "Services\\NoteService.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAcwAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T16:40:55.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T16:40:55.474Z"
             },
             {
               "$type": "Document",
@@ -84,8 +78,7 @@
               "RelativeToolTip": "Services\\INoteService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T16:40:22.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T16:40:22.782Z"
             },
             {
               "$type": "Document",
@@ -97,8 +90,7 @@
               "RelativeToolTip": "Models\\DTOs\\UpdateNoteDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T16:34:18.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T16:34:18.014Z"
             },
             {
               "$type": "Document",
@@ -110,8 +102,7 @@
               "RelativeToolTip": "Models\\DTOs\\CreateNoteDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T16:33:46.123Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T16:33:46.123Z"
             },
             {
               "$type": "Document",
@@ -123,8 +114,7 @@
               "RelativeToolTip": "Models\\Note.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-22T16:31:51.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T16:31:51.991Z"
             },
             {
               "$type": "Document",
@@ -136,8 +126,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-22T16:31:06.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-22T16:31:06.939Z"
             },
             {
               "$type": "Document",
@@ -151,6 +140,10 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T16:31:00.147Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
